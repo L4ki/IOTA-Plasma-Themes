@@ -7,7 +7,7 @@ Changelog: 23.04.2021.
 GTK-Theme
 ---------
 
-Fixed icon: menu-radio-mixed.png
+Fixed icon: menubar-item-active.png
 
 Icons Themes
 -------------
