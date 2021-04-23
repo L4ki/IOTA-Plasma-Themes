@@ -7,4 +7,16 @@ Changelog: 23.04.2021.
 GTK-Theme
 ---------
 
-Fixed icons: 
+Fixed icon: menu-radio-mixed.png
+
+Icons Themes
+-------------
+
+Added new icons: apps (32), applets (256)
+
+Plasma Themes
+--------------
+
+Fixed icon: system.svg
+
+
