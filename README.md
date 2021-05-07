@@ -37,5 +37,23 @@ Plasma Themes
 
 Added new icons: kget.svg, list.svg, utilities.svg
 
+Changelog: 07.05.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icon: line.png, hendle.png
+
+Icons
+-----
+
+Added new icons: actions (32, 48)
+
+Plasma Themes
+-------------
+
+Added icons: go.svg, kruler.svg, slc.svg, kopgac.svg, kpackagekit.svg
+
 
 
