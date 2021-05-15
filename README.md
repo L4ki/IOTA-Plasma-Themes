@@ -55,5 +55,17 @@ Plasma Themes
 
 Added icons: go.svg, kruler.svg, slc.svg, kopgac.svg, kpackagekit.svg
 
+Changelog: 15.05.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (16.22, 24,32)
+
+Plasma Themes
+-------------
+
+Added icons: kup.svg, ime.svg, fcitx.svg
 
 
