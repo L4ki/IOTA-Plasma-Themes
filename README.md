@@ -68,4 +68,21 @@ Plasma Themes
 
 Added icons: kup.svg, ime.svg, fcitx.svg
 
+Changelog: 25.05.2021.
+----------------------
+
+GTK Theme
+----------
+
+Correction icons: button-active, button-hover
+
+Icons
+------
+
+Added new icons actions (16,22,24): sidebar-collapse, sidebar-expand
+
+Plasma Theme
+-------------
+
+Added icons: kopete.svg, mobile.svg
 
