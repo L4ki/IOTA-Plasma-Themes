@@ -86,3 +86,13 @@ Plasma Theme
 
 Added icons: kopete.svg, mobile.svg
 
+Changelog: 28.05.2021.
+----------------------
+
+Icons:  "IOTA-Crown-Dark"
+-------------------------
+
+Correction: actions (32) 
+
+
+
