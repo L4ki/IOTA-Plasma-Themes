@@ -94,5 +94,23 @@ Icons:  "IOTA-Crown-Dark"
 
 Correction: actions (32) 
 
+Changelog: 03.06.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: treeview-separator-ltr, treeview-separator-rtl
+
+Icons "IOTA-Dark" and "IOTA-Light"
+-----------------------------------
+
+Added new icons: actions (16, 22, 24)
+
+Plasma Themes
+-------------
+
+Added icins: elisa.svg, audacious.svg
+
 
 
