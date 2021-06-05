@@ -112,5 +112,13 @@ Plasma Themes
 
 Added icins: elisa.svg, audacious.svg
 
+Changelog: 05.06.2021.
+----------------------
+
+Icons: IOTA-Crown-Dark
+-----------------------
+
+Added new icons: actions (32)
+
 
 
