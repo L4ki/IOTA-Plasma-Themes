@@ -120,5 +120,26 @@ Icons: IOTA-Crown-Dark
 
 Added new icons: actions (32)
 
+Changelog: 16.06.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Fixed icons: checkbox-checked-active, checkbox-checked-hover, checkbox-checked-insensitive, checkbox-checked
+
+Plasma Themes
+-------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
+Fixed icon: elisa.svg
+
+Added new icons: kleopatra.svg
+
+Icons
+-----
+
+Added new icons: actions (16, 22)
 
 
