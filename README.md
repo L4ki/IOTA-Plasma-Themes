@@ -137,9 +137,17 @@ Fixed icon: elisa.svg
 
 Added new icons: kleopatra.svg
 
-Icons
------
+Icons "IOTA-Dark" and "IOTA-Light"
+----------------------------------
 
 Added new icons: actions (16, 22)
+
+Changelog: 17.06.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark"
+-------------------------
+
+Fixed icons: system-suspend.svg, system-switch-user.svg
 
 
