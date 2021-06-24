@@ -150,4 +150,23 @@ Icons: "IOTA-Crown-Dark"
 
 Fixed icons: system-suspend.svg, system-switch-user.svg
 
+Changelog: 24.06.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icon: border.png
+
+Icons "IOTA-Dark" and "IOTA-Light"
+----------------------------------
+
+Added new icons: actions (24)
+
+Plasma Themes
+-------------
+
+Added icons: juk.svg, emblem.svg
+
+
 
