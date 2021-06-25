@@ -168,5 +168,15 @@ Plasma Themes
 
 Added icons: juk.svg, emblem.svg
 
+Changelog: 25.06.2021.
+----------------------
+
+
+Icons: "IOTA-Crown-Dark"
+-------------------------
+
+Added new icons: actions (32)
+
+
 
 
