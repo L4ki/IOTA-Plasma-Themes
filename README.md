@@ -190,7 +190,7 @@ Icons "IOTA-Dark" and "IOTA-Light"
 
 Added new icons: actions (16, 22)
 
-Plasma themes
+Plasma Themes
 -------------
 
 Added icon: kdf.svg
