@@ -177,6 +177,24 @@ Icons: "IOTA-Crown-Dark"
 
 Added new icons: actions (32)
 
+Changelog: 03.07.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: progressbar-horz.png, progressbar-vert.png
+
+Icons "IOTA-Dark" and "IOTA-Light"
+----------------------------------
+
+Added new icons: actions (16, 22)
+
+Plasma themes
+-------------
+
+Added icon: kdf.svg
+
 
 
 
