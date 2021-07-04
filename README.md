@@ -195,6 +195,14 @@ Plasma Themes
 
 Added icon: kdf.svg
 
+Changelog: 04.07.2021.
+----------------------
+
+Icons "IOTA-Crown-Dark"
+----------------------
+
+Fixed icons: system-suspend, system-suspend-hibernate
+
 
 
 
