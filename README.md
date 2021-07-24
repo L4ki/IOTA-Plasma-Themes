@@ -203,6 +203,21 @@ Icons "IOTA-Crown-Dark"
 
 Fixed icons: system-suspend, system-suspend-hibernate
 
+Changelog: 24.07.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (16), actions (32)
+
+
+Plasma Theme
+------------
+
+Fixed widget: slider.svg
+
+Fixed icon: juk.svg
 
 
 
