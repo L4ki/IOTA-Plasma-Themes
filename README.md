@@ -203,7 +203,7 @@ Icons "IOTA-Crown-Dark"
 
 Fixed icons: system-suspend, system-suspend-hibernate
 
-Changelog: 24.07.2021.
+Changelog: 24/25.07.2021.
 ----------------------
 
 Icons
