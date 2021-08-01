@@ -219,5 +219,10 @@ Fixed widget: slider.svg
 
 Fixed icon: juk.svg
 
+Changelog: 01.08.2021.
+----------------------
+
+Fixed icons: actions (32), system-log-out, system-reboot
+
 
 
