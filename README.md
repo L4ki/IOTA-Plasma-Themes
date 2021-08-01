@@ -222,6 +222,9 @@ Fixed icon: juk.svg
 Changelog: 01.08.2021.
 ----------------------
 
+IOTA-Crown-Dark Icons
+----------------------
+
 Fixed icons: actions (32), system-log-out, system-reboot
 
 
