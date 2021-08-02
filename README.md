@@ -225,7 +225,22 @@ Changelog: 01.08.2021.
 IOTA-Crown-Dark Icons
 ----------------------
 
-Fixed icons: actions (32), system-log-out, system-reboot
+Fixed icons: actions (32), system-log-out, system-reboot)
+
+Changelog: 02.08.2021.
+----------------------
+
+Icons: IOTA-Dark and IOTA-Light Icons
+--------------------------------------
+
+Added new icons: actions (22)
+
+Plasma Theme
+------------
+
+Fixed icon: software.svg
+
+
 
 
 
