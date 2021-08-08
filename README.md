@@ -240,6 +240,13 @@ Plasma Theme
 
 Fixed icon: software.svg
 
+Changelog: 08.08.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark-Icons"
+------------------------------
+
+Fixed icons: actions (32)
 
 
 
