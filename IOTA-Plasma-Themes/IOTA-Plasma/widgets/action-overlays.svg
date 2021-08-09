@@ -32,15 +32,16 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="44.43535"
+     inkscape:cy="72.719622"
      inkscape:cx="50.596164"
      inkscape:zoom="2.828427"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1"
-     bordercolor="#ffffff"
+     bordercolor="#000000"
      pagecolor="#ffffff"
-     id="base">
+     id="base"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
@@ -61,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -274,7 +275,7 @@
     <g
        inkscape:label="#open-hover"
        id="open-hover"
-       transform="translate(41.908)">
+       transform="translate(40.5)">
       <g
          id="d-6"
          transform="translate(-5.5,9.5)">
