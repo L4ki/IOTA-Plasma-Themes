@@ -261,6 +261,14 @@ Plasma Theme
 
 Fixed widgets: action-overlays.svg, actionbutton.svg, tasks.svg
 
+Changelog: 15.08.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark-Icons"
+------------------------------
+
+Correction icon: system-log-out.svg, system-reboot.svg 
+
 
 
 
