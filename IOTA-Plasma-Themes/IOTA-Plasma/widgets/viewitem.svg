@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,7 +47,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#ffffff">
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        id="grid1102"
        type="xygrid" />
