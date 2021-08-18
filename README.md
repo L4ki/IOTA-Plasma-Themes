@@ -269,6 +269,18 @@ Icons: "IOTA-Crown-Dark-Icons"
 
 Correction icon: system-log-out.svg, system-reboot.svg 
 
+Changelog: 19.08.2021.
+----------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+-----------------------------------------
+
+Added new icons: actions (32)
+
+Plasma Theme
+------------
+
+Fixed widgets: viewitem.svg, tasks.svg
 
 
 
