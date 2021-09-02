@@ -282,6 +282,14 @@ Plasma Theme
 
 Fixed widgets: viewitem.svg, tasks.svg
 
+Changelog: 02.09.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark-Icons"
+------------------------------
+
+Fixed icons: system (actions 32)
+
 
 
 
