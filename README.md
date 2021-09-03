@@ -290,6 +290,21 @@ Icons: "IOTA-Crown-Dark-Icons"
 
 Fixed icons: system (actions 32)
 
+Changelog: 03.09.2021.
+----------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+-----------------------------------------
+
+Added new icons: apps (16, 42, 48)
+
+Plasma Theme
+-------------
+
+Fixed icons: activities.svg, applications.svg
+
+
+
 
 
 
