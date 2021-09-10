@@ -303,6 +303,19 @@ Plasma Theme
 
 Fixed icons: activities.svg, applications.svg
 
+Changelog: 10.09.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (16, 22, 24)
+
+Plasma Theme
+------------
+
+Fixed icons: notification.svg, notifications.svg
+
 
 
 
