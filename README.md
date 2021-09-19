@@ -316,6 +316,16 @@ Plasma Theme
 
 Fixed icons: notification.svg, notifications.svg
 
+Changelog: 19.09.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark-Icons"
+------------------------------
+
+Fixed icons: actions (32)
+
+
+
 
 
 
