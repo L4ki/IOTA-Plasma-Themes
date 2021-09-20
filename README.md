@@ -324,6 +324,18 @@ Icons: "IOTA-Crown-Dark-Icons"
 
 Fixed icons: actions (32)
 
+Changelog:20.09.2021.
+--------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+-----------------------------------------
+
+Added new icons: mimetypes
+
+Plasma Theme
+------------
+
+Fixed widgets: listitem.svg, scrollbar.svg
 
 
 
