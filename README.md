@@ -337,6 +337,14 @@ Plasma Theme
 
 Fixed widgets: listitem.svg, scrollbar.svg
 
+Changelog: 27.09.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark-Icons"
+------------------------------
+
+Fixed icons: system-suspend.svg (actions 32)
+
 
 
 
