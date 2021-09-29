@@ -345,6 +345,19 @@ Icons: "IOTA-Crown-Dark-Icons"
 
 Fixed icons: system-suspend.svg (actions 32)
 
+Changelog:29.09.2021.
+--------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+-----------------------------------------
+
+Added new icons: status (22, 24)
+
+Plasma Theme
+-------------
+
+Fixed icons: device.svg, document.svg
+
 
 
 
