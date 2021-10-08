@@ -358,6 +358,18 @@ Plasma Theme
 
 Fixed icons: device.svg, document.svg
 
+Changelog: 08.10.2021.
+---------------------
+
+Icons
+------
+
+Added new icons: mimetypes (32, 64)
+
+Plasma Theme
+-----------
+
+Fixed widget: panel-background.svg
 
 
 
