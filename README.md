@@ -372,6 +372,15 @@ Plasma Theme
 Fixed widget: panel-background.svg
 
 
+Changelog: 15.10.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark-Icons"
+------------------------------
+
+Fixed icons: system-shutdown.svg (actions 32)
+
+
 
 
 
