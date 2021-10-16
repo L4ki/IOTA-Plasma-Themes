@@ -384,8 +384,8 @@ Fixed icons: system-shutdown.svg (actions 32)
 Changelog: 16.10.2021.
 ---------------------
 
-Icons
-------
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
 
 Added new icons: actions (16)
 
