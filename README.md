@@ -381,6 +381,21 @@ Icons: "IOTA-Crown-Dark-Icons"
 Fixed icons: system-shutdown.svg (actions 32)
 
 
+Changelog: 16.10.2021.
+---------------------
+
+Icons
+------
+
+Added new icons: actions (16)
+
+Plasma Theme
+-----------
+
+Fixed widget: system.svg
+
+
+
 
 
 
