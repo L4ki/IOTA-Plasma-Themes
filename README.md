@@ -395,6 +395,15 @@ Plasma Theme
 Fixed widget: system.svg
 
 
+Changelog: 22.10.2021.
+----------------------
+
+Icons: "IOTA-Crown-Dark-Icons"
+------------------------------
+
+Fixed icons: system-suspend-hibernate.svg (actions 32)
+
+
 
 
 
