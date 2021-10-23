@@ -403,6 +403,21 @@ Icons: "IOTA-Crown-Dark-Icons"
 
 Fixed icons: system-suspend-hibernate.svg (actions 32)
 
+Changelog: 23.10.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes (16, 22, 24, 32, 64)
+
+Plasma Theme
+-------------
+
+Enabled Blured Widgets for Plasma 5.23
+
+Fixed widgets: arrows.svg, background.svg
+
 
 
 
