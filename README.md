@@ -422,10 +422,23 @@ Fixed widgets: arrows.svg, background.svg
 Changelog: 29.10.2021.
 ----------------------
 
-Icons
-------
+"IOTA-Crown-Dark-Icons"
+------------------------
 
-Added new icons: stus (symbolic), actions (32)
+Added new icons: status (symbolic), actions (32)
+
+Changelog: 30.10.2021.
+---------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
+
+Added new icons: staus (symbolic)
+
+Plasma Theme
+-----------
+
+Fixed widget: tasks.svg
 
 
 
