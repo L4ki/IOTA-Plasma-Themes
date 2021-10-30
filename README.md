@@ -433,7 +433,7 @@ Changelog: 30.10.2021.
 Icons: "IOTA-Dark" and "IOTA-Light" Icons
 ------------------------------------------
 
-Added new icons: staus (symbolic)
+Added new icons: status (symbolic)
 
 Plasma Theme
 -----------
