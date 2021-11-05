@@ -441,6 +441,20 @@ Plasma Theme
 Fixed widget: tasks.svg
 
 
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Added new icons: status (symbolic), actions (32)
+
+
+Changelog: 05.11.2021.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Added new icons: apps, actions (32)
+
 
 
 
