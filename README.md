@@ -455,6 +455,19 @@ Changelog: 05.11.2021.
 
 Added new icons: apps, actions (32)
 
+Changelog: 09.11.2021.
+---------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
+
+Added new icons: apps
+
+Plasma Theme
+-----------
+
+Fixed widget: slider.svg
+
 
 
 
