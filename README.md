@@ -468,6 +468,15 @@ Plasma Theme
 
 Fixed widget: slider.svg
 
+Changelog: 12.11.2021.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Fixed icons: actions (32)
+
+
 
 
 
