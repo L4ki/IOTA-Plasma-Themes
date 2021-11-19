@@ -491,6 +491,14 @@ Plasma Theme
 Fixed widget: clock.svg
 
 
+Changelog: 19.11.2021.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Added new icons: actions (32)
+
 
 
 
