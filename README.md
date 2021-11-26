@@ -500,6 +500,20 @@ Changelog: 19.11.2021.
 Added new icons: actions (32)
 
 
+Changelog: 26.11.2021.
+----------------------
+
+Icons
+------------------------
+
+Added new icons: actions (22)
+
+Plasma Theme
+------------
+
+Fixed widget: checkmarks.svg
+
+
 
 
 
