@@ -506,7 +506,7 @@ Changelog: 26.11.2021.
 Icons
 ------------------------
 
-Added new icons: actions (22)
+Added new icons: actions (22, 32)
 
 Plasma Theme
 ------------
