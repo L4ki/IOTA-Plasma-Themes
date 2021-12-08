@@ -527,6 +527,13 @@ Plasma Theme
 
 Fixed icon: bookmarks.svg
 
+Changelog: 08.12.2021.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Fixed icons: actions (32)
 
 
 
