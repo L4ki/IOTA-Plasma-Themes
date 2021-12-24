@@ -569,5 +569,13 @@ Plasma Theme
 
 Fixed widget: tooltip.svg
 
+Changelog: 24.12.2021.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Update icons: actions
+
 
 
