@@ -577,5 +577,18 @@ Changelog: 24.12.2021.
 
 Update icons: actions
 
+Changelog: 24.12.2021.
+---------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
+
+Added new icons: actions (22)
+
+Plasma Theme
+-----------
+
+Fixed widget: pager.svg
+
 
 
