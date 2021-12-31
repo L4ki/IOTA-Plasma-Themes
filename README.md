@@ -590,5 +590,12 @@ Plasma Theme
 
 Fixed widget: pager.svg
 
+Changelog: 31.12.2021.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Update icons: actions (32)
 
 
