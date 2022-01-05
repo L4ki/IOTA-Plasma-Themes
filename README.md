@@ -599,3 +599,17 @@ Changelog: 31.12.2021.
 Update icons: actions (32)
 
 
+Changelog: 05.01.2022.
+---------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-----------
+
+Fixed widget: busywidget.svg
+
+
