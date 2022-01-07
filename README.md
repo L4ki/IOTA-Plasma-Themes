@@ -612,4 +612,11 @@ Plasma Theme
 
 Fixed widget: busywidget.svg
 
+Changelog: 07.01.2022.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Update icon: dialog-cancel (actions 32)
 
