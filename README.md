@@ -620,3 +620,18 @@ Changelog: 07.01.2022.
 
 Update icon: dialog-cancel (actions 32)
 
+Changelog: 15.01.2022.
+---------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
+
+Added new icons: actions (48, symbolic)
+
+Plasma Theme
+-----------
+
+Fixed widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+
+
