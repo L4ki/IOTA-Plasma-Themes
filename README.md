@@ -633,5 +633,13 @@ Plasma Theme
 
 Fixed widget: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 19.01.2022.
+----------------------
+
+"IOTA-Crown-Dark-Icons"
+------------------------
+
+Update icons: system-shutdown.svg, system-suspend-hibernate.svg (actions 32)
+
 
 
