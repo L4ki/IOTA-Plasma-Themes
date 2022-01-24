@@ -641,5 +641,18 @@ Changelog: 19.01.2022.
 
 Update icons: system-shutdown.svg, system-suspend-hibernate.svg (actions 32)
 
+Changelog: 24.01.2022.
+---------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
+
+Added new icons: status (16)
+
+Plasma Theme
+-----------
+
+Update widget: lineedit.svg
+
 
 
