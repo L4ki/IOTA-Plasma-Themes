@@ -654,5 +654,13 @@ Plasma Theme
 
 Update widget: lineedit.svg
 
+Changelog: 29.01.2022.
+---------------------
+
+Icons: "IOTA-Crown-Dark" Icons
+------------------------------------------
+
+Added new icons: system-log-out-rtl. svg (actions 32)
+
 
 
