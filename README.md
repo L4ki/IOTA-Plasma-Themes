@@ -671,5 +671,7 @@ Icons: "IOTA-Crown-Dark" Icons
 
 Added new icons: status (22)
 
+Update icon: system-switch-user (actions 32)
+
 
 
