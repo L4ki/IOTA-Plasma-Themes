@@ -663,4 +663,13 @@ Icons: "IOTA-Crown-Dark" Icons
 Added new icons: system-log-out-rtl. svg (actions 32)
 
 
+Changelog: 05.02.2022.
+---------------------
+
+Icons: "IOTA-Crown-Dark" Icons
+------------------------------------------
+
+Added new icons: status (22)
+
+
 
