@@ -674,4 +674,13 @@ Added new icons: status (22)
 Update icon: system-switch-user (actions 32)
 
 
+Changelog: 12.02.2022.
+---------------------
+
+Icons: "IOTA-Crown-Dark" Icons
+------------------------------------------
+
+Update icon: (actions 32)
+
+
 
