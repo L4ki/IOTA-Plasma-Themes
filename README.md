@@ -682,5 +682,13 @@ Icons: "IOTA-Crown-Dark" Icons
 
 Update icon: (actions 32)
 
+Changelog: 26.02.2022.
+---------------------
+
+Icons: "IOTA-Crown-Dark" Icons
+------------------------------------------
+
+Update icon: system-reboot.svg (actions 32)
+
 
 
