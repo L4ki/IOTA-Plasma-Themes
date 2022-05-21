@@ -690,5 +690,13 @@ Icons: "IOTA-Crown-Dark" Icons
 
 Update icon: system-reboot.svg (actions 32)
 
+Changelog: 21.05.2022.
+---------------------
+
+Icons: "IOTA-Dark" and "IOTA-Light" Icons
+------------------------------------------
+
+Added new icons: actions 16
+
 
 
